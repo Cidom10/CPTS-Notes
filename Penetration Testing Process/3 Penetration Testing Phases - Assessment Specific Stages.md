@@ -42,7 +42,11 @@ Checklist for a Contract can be found [here](https://academy.hackthebox.com/app/
 
 Checklist for a Rules of Engagement can be found at the same link (table is really long)
 
+### Kick-Off Meeting
+After signing all contracts and docs, in-person
+Includes client POCs, tech support staff, pentest team, and sometimes a Project Manager
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUxNjkzNiwtMTQ5MTc0NzUzNl19
+eyJoaXN0b3J5IjpbLTE1OTM2MTgyNDAsLTE4MDUxNjkzNiwtMT
+Q5MTc0NzUzNl19
 -->
