@@ -45,8 +45,8 @@ Checklist for a Rules of Engagement can be found at the same link (table is real
 ### Kick-Off Meeting
 After signing all contracts and docs, in-person
 Includes client POCs, tech support staff, pentest team, and sometimes a Project Manager
-
+Inform customer about potential risks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM2MTgyNDAsLTE4MDUxNjkzNiwtMT
-Q5MTc0NzUzNl19
+eyJoaXN0b3J5IjpbODQ2NzIxMDA4LC0xNTkzNjE4MjQwLC0xOD
+A1MTY5MzYsLTE0OTE3NDc1MzZdfQ==
 -->
