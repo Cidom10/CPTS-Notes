@@ -40,6 +40,9 @@ Typical Questions in a Scoping Questionnaire:
 
 Checklist for a Contract can be found [here](https://academy.hackthebox.com/app/module/90/section/937) (table is really long)
 
+Checklist for a Rules of Engagement can be found at the same link (table is really long)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE3NDc1MzZdfQ==
+eyJoaXN0b3J5IjpbLTE4MDUxNjkzNiwtMTQ5MTc0NzUzNl19
 -->
