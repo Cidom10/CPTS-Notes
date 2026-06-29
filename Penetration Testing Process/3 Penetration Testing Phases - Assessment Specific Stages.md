@@ -46,7 +46,38 @@ Checklist for a Rules of Engagement can be found at the same link (table is real
 After signing all contracts and docs, in-person
 Includes client POCs, tech support staff, pentest team, and sometimes a Project Manager
 Inform customer about potential risks
+
+### Information Gathering
+This is the phase in which we gather all available information about the company, its employees and infrastructure, and how they are organized.
+-   Open-Source Intelligence
+-   Infrastructure Enumeration
+-   Service Enumeration
+-   Host Enumeration
+
+### Infrastructure Enumeration
+During the infrastructure enumeration, we try to overview the company's position on the internet and intranet. 
+Use OSINT and the first active scans. 
+Use DNS to create a map of the client's servers and hosts 
+Develop an understanding of how their infrastructure is structured. This includes name servers, mail servers, web servers, cloud instances, and more. 
+Make a list of hosts and IPs and compare them to our scope to see if they are included and listed.
+Also try to determine their security measures
+
+### Service Enumeration
+Find services that interact with the host or server over network
+Find version, provided info, and reason it can be used
+
+### Host Enumeration
+Identify OS, services, service versions, etc of every host in the scoping document
+Internally, look for sensitive files, services, scripts, apps, info, etc
+
+### Pillaging
+After Post-Exploitation, collect sensitive info on exploited hosts
+Can show the impact of a potential attack
+Used for further steps to escalate privileges or move laterally
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NzIxMDA4LC0xNTkzNjE4MjQwLC0xOD
-A1MTY5MzYsLTE0OTE3NDc1MzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjg1OTI0ODQsODQ2NzIxMDA4LC0xNT
+kzNjE4MjQwLC0xODA1MTY5MzYsLTE0OTE3NDc1MzZdfQ==
 -->
