@@ -106,9 +106,19 @@ Important Industry Standards:
 | Private Banking Info | Gramm-Leach-Bliley (GLBA) |
 | Government Info | FISMA |
 
-Frameworks tat
+Frameworks that companies may follow:
+(`NIST`) - National Institute of Standards and Technology
+(`CIS Controls`) - Center for Internet Security Controls
+(`ISO`) - International Organization for Standardization
+(`PCI-DSS`) - The Payment Card Industry Data Security Standard
+(`GDPR`) - General Data Protection Regulation
+(`COBIT`) - Control Objectives for Information and Related Technologies
+(`FedRAMP`) - The Federal Risk and Authorization Management Program
+(`ITAR`) - International Traffic in Arms Regulations
+(`AICPA`) - American Institute of Certified Public Accountants
+(`NERC CIP Standards`) - NERC Critical Infrastructure Protection Standards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUyNDQ4OTgsLTU3NTcyMjc0OSwtMT
+eyJoaXN0b3J5IjpbLTIwMTAzOTQyMzEsLTU3NTcyMjc0OSwtMT
 ExODUzODA3NCwtMTIyODU5MjQ4NCw4NDY3MjEwMDgsLTE1OTM2
 MTgyNDAsLTE4MDUxNjkzNiwtMTQ5MTc0NzUzNl19
 -->
