@@ -76,8 +76,9 @@ Can show the impact of a potential attack
 Used for further steps to escalate privileges or move laterally
 
 
-
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg1OTI0ODQsODQ2NzIxMDA4LC0xNT
-kzNjE4MjQwLC0xODA1MTY5MzYsLTE0OTE3NDc1MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ0ODQ2NzYsLTEyMjg1OTI0ODQsOD
+Q2NzIxMDA4LC0xNTkzNjE4MjQwLC0xODA1MTY5MzYsLTE0OTE3
+NDc1MzZdfQ==
 -->
