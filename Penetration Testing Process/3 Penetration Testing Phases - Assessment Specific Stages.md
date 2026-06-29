@@ -96,9 +96,19 @@ Once vulnerabilities are found, we can prioritize attacks
 
 CVSS Scoring, NVD Calculator
 
-#
+### Data Exfiltration
+
+Important Industry Standards:
+| Info Type | Regulation |
+| -- | -- |
+| Credit Card | PCI-DSS |
+| e-Patient Health Info | HIPAA |
+| Private Banking Info | Gramm-Leach-Bliley (GLBA) |
+| Government Info | FISMA |
+
+Frameworks tat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Nzk0NzA2LC01NzU3MjI3NDksLTExMT
-g1MzgwNzQsLTEyMjg1OTI0ODQsODQ2NzIxMDA4LC0xNTkzNjE4
-MjQwLC0xODA1MTY5MzYsLTE0OTE3NDc1MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDUyNDQ4OTgsLTU3NTcyMjc0OSwtMT
+ExODUzODA3NCwtMTIyODU5MjQ4NCw4NDY3MjEwMDgsLTE1OTM2
+MTgyNDAsLTE4MDUxNjkzNiwtMTQ5MTc0NzUzNl19
 -->
