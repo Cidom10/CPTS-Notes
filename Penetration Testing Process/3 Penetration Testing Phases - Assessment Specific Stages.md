@@ -87,9 +87,18 @@ An analysis is a detailed examination of an event or process, describing its ori
 | Predictive | By evaluating historical and current data, predictive analysis creates a predictive model for future probabilities. Based on the results of descriptive and diagnostic analyses, this method of data analysis makes it possible to identify trends, detect deviations from expected values at an early stage, and predict future occurrences as accurately as possible. |
 | Prescriptive | Prescriptive analytics aims to narrow down what actions to take to eliminate or prevent a future problem or trigger a specific activity or process. |
 
+### Exploitation
+
+Once vulnerabilities are found, we can prioritize attacks
+- Probability of success
+- Complexity
+- Probability of damage
+
+CVSS Scoring, NVD Calculator
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg1MzgwNzQsLTEyMjg1OTI0ODQsOD
-Q2NzIxMDA4LC0xNTkzNjE4MjQwLC0xODA1MTY5MzYsLTE0OTE3
-NDc1MzZdfQ==
+eyJoaXN0b3J5IjpbLTU3NTcyMjc0OSwtMTExODUzODA3NCwtMT
+IyODU5MjQ4NCw4NDY3MjEwMDgsLTE1OTM2MTgyNDAsLTE4MDUx
+NjkzNiwtMTQ5MTc0NzUzNl19
 -->
