@@ -96,9 +96,9 @@ Once vulnerabilities are found, we can prioritize attacks
 
 CVSS Scoring, NVD Calculator
 
-
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTcyMjc0OSwtMTExODUzODA3NCwtMT
-IyODU5MjQ4NCw4NDY3MjEwMDgsLTE1OTM2MTgyNDAsLTE4MDUx
-NjkzNiwtMTQ5MTc0NzUzNl19
+eyJoaXN0b3J5IjpbLTU3Nzk0NzA2LC01NzU3MjI3NDksLTExMT
+g1MzgwNzQsLTEyMjg1OTI0ODQsODQ2NzIxMDA4LC0xNTkzNjE4
+MjQwLC0xODA1MTY5MzYsLTE0OTE3NDc1MzZdfQ==
 -->
