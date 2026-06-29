@@ -76,9 +76,20 @@ Can show the impact of a potential attack
 Used for further steps to escalate privileges or move laterally
 
 
-##
+### Vulnerability Assessment
+
+An analysis is a detailed examination of an event or process, describing its origin and impact, that with the help of certain precautions and actions, can be triggered to support or prevent future occurrences.
+
+| Analysis Type | Description |
+| -- | -- |
+| Descriptive | Descriptive analysis is essential in any data analysis. On the one hand, it describes a data set based on individual characteristics. It helps to detect possible errors in data collection or outliers in the data set. |
+| Diagnostic | Diagnostic analysis clarifies conditions' causes, effects, and interactions. Doing so provides insights that are obtained through correlations and interpretation. We must take a backward-looking view, similar to descriptive analysis, with the subtle difference that we try to find reasons for events and developments. |
+| Predictive | By evaluating historical and current data, predictive analysis creates a predictive model for future probabilities. Based on the results of descriptive and diagnostic analyses, this method of data analysis makes it possible to identify trends, detect deviations from expected values at an early stage, and predict future occurrences as accurately as possible. |
+| Prescriptive | Prescriptive analytics aims to narrow down what actions to take to eliminate or prevent a future problem or trigger a specific activity or process. |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ0ODQ2NzYsLTEyMjg1OTI0ODQsOD
+eyJoaXN0b3J5IjpbLTExMTg1MzgwNzQsLTEyMjg1OTI0ODQsOD
 Q2NzIxMDA4LC0xNTkzNjE4MjQwLC0xODA1MTY5MzYsLTE0OTE3
 NDc1MzZdfQ==
 -->
