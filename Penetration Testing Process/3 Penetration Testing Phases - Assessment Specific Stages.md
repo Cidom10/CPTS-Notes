@@ -117,8 +117,15 @@ Frameworks that companies may follow:
 (`ITAR`) - International Traffic in Arms Regulations
 (`AICPA`) - American Institute of Certified Public Accountants
 (`NERC CIP Standards`) - NERC Critical Infrastructure Protection Standards
+
+### Pivoting
+Once inside, finding non-routable networks and scanning them for vulnerabilities
+"To access inaccessible systems via an intermediary system."
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAzOTQyMzEsLTU3NTcyMjc0OSwtMT
-ExODUzODA3NCwtMTIyODU5MjQ4NCw4NDY3MjEwMDgsLTE1OTM2
-MTgyNDAsLTE4MDUxNjkzNiwtMTQ5MTc0NzUzNl19
+eyJoaXN0b3J5IjpbMTUyMDEwMTI0OSwtMjAxMDM5NDIzMSwtNT
+c1NzIyNzQ5LC0xMTE4NTM4MDc0LC0xMjI4NTkyNDg0LDg0Njcy
+MTAwOCwtMTU5MzYxODI0MCwtMTgwNTE2OTM2LC0xNDkxNzQ3NT
+M2XX0=
 -->
