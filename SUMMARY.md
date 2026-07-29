@@ -1,12 +1,10 @@
 # Table of contents
 
-* [Page 1](README.md)
-
 ## Footprinting
 
 ***
 
-* [Enumeration Methodology](enumeration-methodology.md)
+* [Enumeration Methodology](README.md)
 
 ## Infrastructure-Based Enumeration
 
@@ -18,3 +16,5 @@
 
 * [FTP](host-based-enumeration/ftp.md)
 * [SMB](host-based-enumeration/smb.md)
+* [NFS](host-based-enumeration/nfs.md)
+* [DNS](host-based-enumeration/dns.md)
