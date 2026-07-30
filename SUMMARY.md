@@ -23,3 +23,4 @@
 * [SMNP](host-based-enumeration/smnp.md)
 * [MySQL](host-based-enumeration/mysql.md)
 * [MSSQL](host-based-enumeration/mssql.md)
+* [Oracle TNS](host-based-enumeration/oracle-tns.md)
