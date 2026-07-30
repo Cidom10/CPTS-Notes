@@ -24,3 +24,9 @@
 * [MySQL](host-based-enumeration/mysql.md)
 * [MSSQL](host-based-enumeration/mssql.md)
 * [Oracle TNS](host-based-enumeration/oracle-tns.md)
+* [IPMI](host-based-enumeration/ipmi.md)
+
+## Remote Management Protocols
+
+* [Linux RMPs](remote-management-protocols/linux-rmps.md)
+* [Windows RMPs](remote-management-protocols/windows-rmps.md)
