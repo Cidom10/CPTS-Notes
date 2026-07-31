@@ -1,6 +1,6 @@
-# Domain Information
+# Infrastructure-Based Enumeration
 
-### Domain Information
+## Domain Information
 
 ```
 // Some code
@@ -36,8 +36,6 @@ Identify hosts accessible from internet, not hosted by third-party providers
 for i in $(cat subdomainlist);do host $i | grep "has address" | grep <Target Domain> | cut -d" " -f1,4;done
 ```
 
-
-
 Use [Shodan](https://www.shodan.io/) to find devices and systems permanently connected to the internet. Searches for open TCP/IP ports
 
 Search Shodan for specified IPs:
@@ -47,11 +45,37 @@ for i in $(cat subdomainlist);do host $i | grep "has address" | grep inlanefreig
 $ for i in $(cat ip-addresses.txt);do shodan host $i;done
 ```
 
-
-
 Use **dig** to display available DNS records:
 
 ```bash
 dig any <Target>
 ```
 
+## Cloud Resources
+
+Great place to start with cloud is S3 buckets (AWS), blobs (Azure), and cloud storage (GCP)
+
+Using Google Dork to search for open cloud storage:
+
+```
+intext:<Company Name> inurl:amazonaws.com
+intext:<Company Name> inurl:blob.core.windows.net
+```
+
+
+
+[domain.glass](https://domain.glass) is a third-party tool to tell a lot about a company's infrastructure.
+
+[GreyHatWarfare](https://buckets.grayhatwarfare.com/) has different searches, cloud storage discovery, and filters for file formats
+
+## Staff
+
+Searching for and identifying employees on social media platforms can also reveal a lot about the teams' infrastructure and makeup. This, in turn, can lead to us identifying which technologies, programming languages, and even software applications are being used. To a large extent, we will also be able to assess each person's focus based on their skills. The posts and material shared with others are also a great indicator of what the person is currently engaged in and what that person currently feels is important to share with others.
+
+
+
+Job postings can give clues to what their infrastructure holds.
+
+
+
+LinkedIn offers large amounts of searches and filtering to get info on staff and a company's infrastructure
