@@ -20,4 +20,6 @@
 
 ## Vulnerability Assessment
 
-* [Page 1](vulnerability-assessment/page-1.md)
+* [Security Assessments](vulnerability-assessment/security-assessments.md)
+* [Vulnerability Scoring & Reporting](vulnerability-assessment/vulnerability-scoring-and-reporting.md)
+* [Nessus](vulnerability-assessment/nessus.md)
