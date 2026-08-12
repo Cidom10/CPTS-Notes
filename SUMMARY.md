@@ -23,3 +23,5 @@
 * [Security Assessments](vulnerability-assessment/security-assessments.md)
 * [Vulnerability Scoring & Reporting](vulnerability-assessment/vulnerability-scoring-and-reporting.md)
 * [Nessus](vulnerability-assessment/nessus.md)
+* [OpenVAS](vulnerability-assessment/openvas.md)
+* [Reporting](vulnerability-assessment/reporting.md)
