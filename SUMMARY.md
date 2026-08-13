@@ -25,3 +25,8 @@
 * [Nessus](vulnerability-assessment/nessus.md)
 * [OpenVAS](vulnerability-assessment/openvas.md)
 * [Reporting](vulnerability-assessment/reporting.md)
+
+## File Transfers
+
+* [Introduction](file-transfers/introduction.md)
+* [File Transfer Methods](file-transfers/file-transfer-methods.md)
