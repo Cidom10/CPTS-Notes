@@ -30,3 +30,4 @@
 
 * [Introduction](file-transfers/introduction.md)
 * [File Transfer Methods](file-transfers/file-transfer-methods.md)
+* [Detect or Be Detected](file-transfers/detect-or-be-detected.md)
