@@ -31,3 +31,8 @@
 * [Introduction](file-transfers/introduction.md)
 * [File Transfer Methods](file-transfers/file-transfer-methods.md)
 * [Detect or Be Detected](file-transfers/detect-or-be-detected.md)
+
+## Shells & Payloads
+
+* [Shell Basics](shells-and-payloads/shell-basics.md)
+* [Payloads](shells-and-payloads/payloads.md)
