@@ -36,3 +36,5 @@
 
 * [Shell Basics](shells-and-payloads/shell-basics.md)
 * [Payloads](shells-and-payloads/payloads.md)
+* [Windows Shells](shells-and-payloads/windows-shells.md)
+* [NIX Shells](shells-and-payloads/nix-shells.md)

